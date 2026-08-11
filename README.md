@@ -2,6 +2,8 @@
 
 ### Software Developer | Full Stack Developer
 
+**ReactJS • Java • Spring Boot • Next.js • PostgreSQL**
+
 Results-driven Software Developer with 2 years of experience designing, developing, and maintaining enterprise web applications across HR, education, and business domains.
 
 I build scalable and reliable software solutions using **Java, ReactJS, RESTful APIs, and relational databases**, with experience across the software development lifecycle and Agile team environments.
