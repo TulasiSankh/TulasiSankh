@@ -1,93 +1,167 @@
-# Hi, I'm Tulasi Sugandhi 👋
+Hi, I'm Tulasi Sugandhi 👋
 
-### Full Stack Developer | React.js • Next.js • Java • Spring Boot • PostgreSQL
+Software Developer | Full Stack Developer
 
-I’m a Full Stack Developer focused on building modern, scalable web applications and enterprise software solutions.
+Results-driven Software Developer with 2 years of experience designing,developing, and maintaining enterprise web applications across HR,education, and business domains.
 
-I enjoy working across frontend development, backend APIs, databases, dashboards, and AI-powered applications.
+I build scalable and reliable software solutions using Java, ReactJS,RESTful APIs, and relational databases, with experience across thesoftware development lifecycle and Agile team environments.
 
----
+💼 Professional Experience
 
-## 🚀 About Me
+Software Developer --- Click Crawl Media Private Limited
 
-- 💻 Full Stack Developer
-- ⚛️ Building modern web applications with React.js and Next.js
-- ☕ Developing backend services with Java and Spring Boot
-- 🗄️ Working with PostgreSQL, MySQL, SQL Server and MongoDB
-- 🔗 Building and integrating REST APIs
-- 🤖 Exploring AI, LLM applications and automation
-- 📊 Interested in enterprise applications and scalable software solutions
+April 2024 -- Present
 
----
+Developed and maintained enterprise web applications for HR,education, and business operations.
 
-## 🛠️ Tech Stack
+Designed RESTful APIs, optimized relational databases, andimplemented secure authentication mechanisms.
 
-### Frontend
-React.js • Next.js • JavaScript • HTML5 • CSS3  
-Bootstrap • Tailwind CSS
+Collaborated with cross-functional teams throughout the Agilesoftware development lifecycle.
 
-### Backend
-Java • Spring Boot • ASP.NET MVC • REST APIs
+Contributed to application performance, security, maintainability,and overall user experience.
 
-### Databases
-PostgreSQL • MySQL • SQL Server • MongoDB
+🚀 Featured Work
 
-### AI & Automation
-Python • OpenAI API • Ollama • RAG
+🏢 HR Management System (HRMS)
 
-### Tools
-Git • GitHub • Azure DevOps • Postman • JIRA • Figma
+Role: Full Stack Developer
 
----
+A comprehensive HRMS designed to automate employee lifecycle processes.
 
-## ⭐ Featured Projects
+Key areas: - Employee Management - Attendance - Payroll - LeaveManagement - Recruitment - Role-based access - Interactive dashboards -Reporting
 
-### 🏢 Workforce360 HRMS
+Impact: Helped reduce manual HR operations and improveorganizational efficiency through process automation and data-drivenworkflows.
 
-Enterprise Human Resource Management System with modules for:
+🎓 College Management System
 
-- Employee Management
-- Attendance
-- Leave Management
-- Payroll
-- Recruitment
-- Performance Management
-- Helpdesk
-- Reports & Analytics
+Role: Full Stack Developer
 
-**Tech:** React.js • Next.js • REST APIs • PostgreSQL
+A centralized system designed to streamline college administration andacademic workflows.
 
----
+Key areas: - Student Admissions - Attendance - Academic Records -Faculty Management - Administrative Operations
 
-### 🤖 AI Resume Analyzer
+Impact: Digitized academic workflows, enabled real-time data access,and reduced manual record management.
 
-AI-powered application designed to analyze resumes and provide useful candidate insights.
+☕ Java Quiz Application
 
-**Tech:** Python • AI • Web Technologies
+Role: Java Developer
 
----
+A console-based quiz application developed using Java andObject-Oriented Programming principles.
 
-### 🎓 College Management System
+Key features: - Quiz creation - Answer evaluation - Scorecalculation - Result generation - Java Collections Framework - Exceptionhandling - Modular application architecture
 
-Web-based platform designed to support college administration and management workflows.
+Focus: Reliability, maintainability, scalability, and future featureextensibility.
 
-**Tech:** React.js • PostgreSQL • REST APIs
+🛠️ Technical Skills
 
----
+Frontend
 
-## 📚 Currently Learning
+ReactJS
 
-- Advanced React & Next.js
-- Python for AI
-- Large Language Model Applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Workflow Automation
+JavaScript (ES6+)
 
----
+HTML5
 
-## 📫 Connect With Me
+CSS3
 
-💼 LinkedIn  
-🌐 Portfolio  
-📧 Email
+Bootstrap
+
+Next.js
+
+Tailwind CSS
+
+Backend
+
+Java
+
+ASP.NET MVC
+
+RESTful APIs
+
+Cloud APIs
+
+Databases
+
+MySQL
+
+PostgreSQL
+
+SQL Server
+
+Security
+
+JWT Authentication
+
+Tools & DevOps
+
+Git
+
+Azure DevOps
+
+Postman
+
+JIRA
+
+IDE & Utilities
+
+Visual Studio
+
+Visual Studio Code
+
+Design & UI
+
+Figma
+
+Component-based UI Development
+
+Familiar With
+
+MongoDB
+
+AWS
+
+Docker
+
+Kubernetes
+
+CI/CD
+
+Data Warehousing
+
+🎓 Education
+
+Master of Computer Applications (MCA)
+
+Dr. Babasaheb Ambedkar Marathwada University, India --- 2023
+
+Bachelor of Computer Science (B.Sc. Computer Science)
+
+Dr. Babasaheb Ambedkar Marathwada University, India --- 2021
+
+🔧 Engineering Focus
+
+Enterprise Web Application Development
+
+Full Stack Development
+
+RESTful API Development
+
+Relational Database Development
+
+Secure Authentication
+
+Role-Based Access Control
+
+Dashboard & Reporting Solutions
+
+Application Performance & Maintainability
+
+Agile Software Development
+
+📫 Connect With Me
+
+LinkedIn: Tulasi SugandhiEmail: sankhtulasi@gmail.com
+
+💡 What I'm Interested In
+
+Building reliable, scalable software products and continuously improvingmy skills in modern full-stack development, enterprise applicationarchitecture, cloud technologies, and software engineering practices.
