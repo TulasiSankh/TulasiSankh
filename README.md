@@ -1,179 +1,368 @@
 # Hi, I'm Tulasi Sugandhi 👋
 
-### Software Developer | Full Stack Developer
+### Full Stack Developer | React.js • Next.js • Java • Spring Boot • PostgreSQL | Enterprise Applications & AI
 
-**ReactJS • Java • Spring Boot • Next.js • PostgreSQL**
+I’m a Software Developer focused on building **scalable, reliable, and user-friendly web applications** across enterprise, HR, education, and business domains.
 
-Results-driven Software Developer with 2 years of experience designing, developing, and maintaining enterprise web applications across HR, education, and business domains.
+I work across the full software development lifecycle — from **frontend development and REST APIs to database integration, authentication, dashboards, and business workflows**.
 
-I build scalable and reliable software solutions using **Java, ReactJS, RESTful APIs, and relational databases**, with experience across the software development lifecycle and Agile team environments.
+I’m also actively exploring **AI-powered applications, automation, and modern software engineering practices**.
 
 ---
 
-## 💼 Professional Experience
+## 🚀 About Me
 
-### Software Developer — Click Crawl Media Private Limited
+* 💻 Full Stack Developer
+* ⚛️ Building applications with React.js and Next.js
+* ☕ Backend development with Java and Spring Boot
+* 🔗 Developing and integrating RESTful APIs
+* 🗄️ Working with PostgreSQL, MySQL, SQL Server and MongoDB
+* 🔐 Implementing authentication and role-based access control
+* 📊 Building dashboards and business workflow applications
+* 🤖 Exploring AI-powered applications and automation
+* 🔄 Experienced with Git, GitHub and Agile development workflows
+* ☁️ Exploring Cloud and DevOps technologies
+
+---
+
+# 💼 Professional Experience
+
+## Software Developer — Click Crawl Media Private Limited
 
 **April 2024 – Present**
 
-- Developed and maintained enterprise web applications for HR, education, and business operations.
-- Designed RESTful APIs, optimized relational databases, and implemented secure authentication mechanisms.
-- Collaborated with cross-functional teams throughout the Agile software development lifecycle.
-- Contributed to application performance, security, maintainability, and overall user experience.
+* Develop and maintain enterprise web applications across HR, education, and business domains.
+* Build responsive and reusable frontend interfaces using modern JavaScript frameworks.
+* Develop and integrate RESTful APIs for application workflows.
+* Work with relational databases for application data management.
+* Implement authentication, authorization, and role-based access control.
+* Develop dashboards, reports, and workflow-driven application modules.
+* Troubleshoot application issues and improve application performance and maintainability.
+* Collaborate with team members using Agile software development practices.
+* Work with Git, Azure DevOps, Postman, JIRA and other development tools.
+* Contribute to code reviews, bug fixes, feature development, and application improvements.
 
 ---
 
-## 🚀 Featured Work
+# 🚀 Recent & Featured Projects
 
-### 🏢 HR Management System (HRMS)
+## 🤖 BusinessMate AI
+
+**Type:** AI / Full Stack Project
+**Technology:** TypeScript
+
+An AI-focused application exploring intelligent assistance, business productivity, and automation.
+
+### Focus Areas
+
+* 🤖 AI-powered interactions
+* ⚙️ Business productivity
+* 🔄 Intelligent workflows
+* 💡 AI-assisted problem solving
+* 🖥️ Modern web application development
+
+**Repository:** [BusinessMate AI](https://github.com/TulasiSankh/businessmate-ai)
+
+---
+
+## 🌱 Life Focus Project
+
+**Type:** Productivity / Web Application
+**Technology:** TypeScript
+
+A productivity-focused application designed around organizing goals, activities, and personal workflows.
+
+### Focus Areas
+
+* 🎯 Goal organization
+* 📋 Task and activity management
+* 📊 Productivity workflows
+* 🖥️ Responsive user interface
+* ⚡ Modern TypeScript development
+
+**Repository:** [Life Focus Project](https://github.com/TulasiSankh/Life-focus-project)
+
+---
+
+## 🏢 PeopleCore HRMS
 
 **Role:** Full Stack Developer
 
-A comprehensive HRMS designed to automate employee lifecycle processes.
+A comprehensive Human Resource Management System designed to digitize and streamline employee and HR operations.
 
-**Key Areas**
+### Key Modules
 
-- Employee Management
-- Attendance
-- Payroll
-- Leave Management
-- Recruitment
-- Role-Based Access
-- Interactive Dashboards
-- Reporting
+* 👥 Employee Management
+* ⏰ Attendance Management
+* 🏖️ Leave Management
+* 💰 Payroll
+* 📄 Recruitment
+* 📊 Reports & Analytics
+* 🔐 Role-Based Access Control
+* 📈 Interactive Dashboards
+* 👤 User Management
+* 🎯 Performance Management
 
-**Impact:** Helped reduce manual HR operations and improve organizational efficiency through process automation and data-driven workflows.
+### Engineering Focus
+
+* Full-stack enterprise application development
+* REST API integration
+* Authentication and authorization
+* Database-driven workflows
+* Role-based dashboards
+* Business process automation
 
 ---
 
-### 🎓 College Management System
+## 🎓 College Management System
 
 **Role:** Full Stack Developer
 
-A centralized system designed to streamline college administration and academic workflows.
+A centralized application designed to streamline college administration and academic workflows.
 
-**Key Areas**
+### Key Areas
 
-- Student Admissions
-- Attendance
-- Academic Records
-- Faculty Management
-- Administrative Operations
+* 🎓 Student Admissions
+* 👨‍🎓 Student Management
+* 📅 Attendance
+* 📚 Academic Records
+* 👩‍🏫 Faculty Management
+* 🏢 Administrative Operations
+* 📊 Dashboard & Reporting
 
-**Impact:** Digitized academic workflows, enabled real-time data access, and reduced manual record management.
+### Engineering Focus
+
+* React-based application development
+* REST API integration
+* PostgreSQL database
+* Data-driven dashboards
+* Workflow automation
 
 ---
 
-### ☕ Java Quiz Application
+## 🧾 Invoice & GST Application
+
+**Role:** Software Developer / Contributor
+
+Contributed to an invoice and GST management application through collaborative GitHub development.
+
+### Contributions
+
+* 🐛 Bug fixing
+* 🎨 Admin login UI improvements
+* 🧾 Invoice-related fixes
+* 🔧 Application issue resolution
+* 🔀 Pull request-based collaboration
+* ✅ Multiple merged pull requests
+
+### Recent Contributions
+
+* `fix the changes`
+* `admin_login_Ui_fix`
+* `fix the invoice issues`
+* `Invoice_fixed_error`
+* `Revert "invoice fix in the admin login"`
+
+Repository: [invoice_gst](https://github.com/sanjaykavatakoppa/invoice_gst)
+
+---
+
+## ☕ Java Quiz Application
 
 **Role:** Java Developer
 
 A console-based quiz application developed using Java and Object-Oriented Programming principles.
 
-**Key Features**
+### Key Features
 
-- Quiz Creation
-- Answer Evaluation
-- Score Calculation
-- Result Generation
-- Java Collections Framework
-- Exception Handling
-- Modular Application Architecture
+* Quiz Creation
+* Answer Evaluation
+* Score Calculation
+* Result Generation
+* Java Collections Framework
+* Exception Handling
+* Modular Application Structure
 
-**Focus:** Reliability, maintainability, scalability, and future feature extensibility.
+### Engineering Focus
 
----
-
-## 🛠️ Technical Skills
-
-### Frontend
-
-- ReactJS
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Bootstrap
-- Next.js
-- Tailwind CSS
-
-### Backend
-
-- Java
-- ASP.NET MVC
-- RESTful APIs
-- Cloud APIs
-
-### Databases
-
-- MySQL
-- PostgreSQL
-- SQL Server
-
-### Security
-
-- JWT Authentication
-
-### Tools & DevOps
-
-- Git
-- Azure DevOps
-- Postman
-- JIRA
-
-### IDE & Utilities
-
-- Visual Studio
-- Visual Studio Code
-
-### Design & UI
-
-- Figma
-- Component-Based UI Development
-
-### Familiar With
-
-- MongoDB
-- AWS
-- Docker
-- Kubernetes
-- CI/CD
-- Data Warehousing
+* Object-Oriented Programming
+* Exception Handling
+* Collections
+* Modular design
+* Maintainable application architecture
 
 ---
 
-## 🎓 Education
+# 🛠️ Technical Skills
 
-### Master of Computer Applications (MCA)
+## Frontend
 
-**Dr. Babasaheb Ambedkar Marathwada University, India — 2023**
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind CSS
+* Responsive Web Design
+* Component-Based UI Development
 
-### Bachelor of Computer Science (B.Sc. Computer Science)
+## Backend
 
-**Dr. Babasaheb Ambedkar Marathwada University, India — 2021**
+* Java
+* Spring Boot
+* ASP.NET MVC
+* RESTful APIs
+* API Integration
+* Backend Application Development
+
+## Databases
+
+* PostgreSQL
+* MySQL
+* SQL Server
+* MongoDB
+
+## Authentication & Security
+
+* JWT Authentication
+* Authentication & Authorization
+* Role-Based Access Control
+
+## AI & Automation
+
+* AI-Powered Applications
+* Generative AI Concepts
+* AI API Integration
+* AI Automation
+* Exploring RAG
+* Exploring AI Agents
+* Workflow Automation
+
+## Cloud & DevOps
+
+* AWS
+* Docker
+* Kubernetes
+* CI/CD
+* Azure DevOps
+
+## Development Tools
+
+* Git
+* GitHub
+* Azure DevOps
+* Postman
+* JIRA
+* Figma
+* Visual Studio Code
+* Visual Studio
 
 ---
 
-## 🔧 Engineering Focus
+# 🧠 Engineering Focus
 
-- Enterprise Web Application Development
-- Full Stack Development
-- RESTful API Development
-- Relational Database Development
-- Secure Authentication
-- Role-Based Access Control
-- Dashboard & Reporting Solutions
-- Application Performance & Maintainability
-- Agile Software Development
+I’m particularly interested in building:
 
----
-
-## 📫 Connect With Me
-
-- 💼 **LinkedIn:** [Tulasi Sugandhi](https://www.linkedin.com/in/tulasi-sugandhi/)
-- 📧 **Email:** [sankhtulasi@gmail.com](mailto:sankhtulasi@gmail.com)
+* 🏢 Enterprise Web Applications
+* ⚛️ Full Stack Applications
+* 🚀 SaaS Products
+* 🔗 RESTful APIs
+* 🗄️ Database-Driven Applications
+* 🔐 Secure Applications
+* 📊 Dashboards & Reporting Systems
+* 🤖 AI-Powered Applications
+* ⚙️ Business Automation
+* ☁️ Cloud-Based Applications
+* 🔄 Scalable Software Systems
 
 ---
 
-### 💡 What I'm Interested In
+# 📚 Currently Learning & Exploring
 
-Building reliable, scalable software products and continuously improving my skills in modern full-stack development, enterprise application architecture, cloud technologies, and software engineering practices.
+* Advanced React.js
+* Next.js
+* Python
+* Generative AI
+* OpenAI APIs
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* CrewAI
+* n8n Automation
+* Cloud Technologies
+* Docker & Kubernetes
+* CI/CD
+* Modern Software Architecture
+
+---
+
+# 📈 GitHub Activity
+
+I actively work on both personal and collaborative software projects.
+
+### 2026 Highlights
+
+* 🔥 **158+ GitHub contributions**
+* 🔀 Multiple pull requests
+* ✅ Multiple merged contributions
+* 🤖 AI-focused projects
+* 💻 Full-stack application development
+* 🧾 Contributions to business applications
+* 🚀 Continuous project development and experimentation
+
+---
+
+# 🎓 Education
+
+## Master of Computer Applications (MCA)
+
+**Dr. Babasaheb Ambedkar Marathwada University, India**
+**2023**
+
+## Bachelor of Science — Computer Science
+
+**Dr. Babasaheb Ambedkar Marathwada University, India**
+**2021**
+
+---
+
+# 🏆 Development Philosophy
+
+> **Build software that is reliable, maintainable, scalable, and genuinely useful.**
+
+I believe software engineering is not only about writing code. It is about understanding the problem, designing maintainable solutions, building intuitive user experiences, and continuously improving the product.
+
+---
+
+# 🌟 Areas of Interest
+
+* Full Stack Development
+* Enterprise Software
+* SaaS Applications
+* AI-Powered Applications
+* Business Automation
+* Cloud Applications
+* Backend Engineering
+* Software Architecture
+* Developer Tools
+
+---
+
+# 📫 Connect With Me
+
+* 💼 **LinkedIn:** [Tulasi Sugandhi](https://www.linkedin.com/in/tulasi-sugandhi/)
+* 💻 **GitHub:** [TulasiSankh](https://github.com/TulasiSankh)
+* 🌐 **Devpost:** [sankhtulasi](https://devpost.com/sankhtulasi)
+* 🐦 **X / Twitter:** [@TulasiSankh](https://twitter.com/TulasiSankh)
+* 📧 **Email:** [sankhtulasi@gmail.com](mailto:sankhtulasi@gmail.com)
+
+---
+
+# 🚀 Let's Build Something Great
+
+I'm interested in learning, building, collaborating, and solving real-world problems through software.
+
+**Full Stack Development • Enterprise Applications • AI • Automation • Cloud**
+
+⭐ Feel free to explore my repositories and projects.
