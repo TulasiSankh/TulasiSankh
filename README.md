@@ -31,26 +31,6 @@ AI-powered document comparison application that analyzes documents using **seman
 
 🔗 [View Repository](https://github.com/TulasiSankh/ai-document-comparison-tool)
 
----
-
-### 🏢 PeopleCore HRMS
-
-**React • Java • Spring Boot • PostgreSQL • REST APIs**
-
-Enterprise Human Resource Management System designed around employee and HR workflows.
-
-**Key Modules**
-
-* Employee Management
-* Attendance & Leave Management
-* Recruitment
-* Payroll
-* Performance Management
-* Reports & Analytics
-* Role-Based Access Control
-* Dashboards & User Management
-
-**Engineering Focus:** Enterprise workflows • REST APIs • Authentication • RBAC • Database-driven applications
 
 ---
 
@@ -74,20 +54,7 @@ Full-stack application designed to manage college administration and academic wo
 
 ---
 
-### 🧾 Invoice & GST Application
 
-**Collaborative Software Development**
-
-Contributed to an invoice and GST management application through GitHub-based development and pull-request collaboration.
-
-* Bug fixes and application issue resolution
-* Admin login UI improvements
-* Invoice-related fixes
-* Multiple pull requests and merged contributions
-
-🔗 [View Repository](https://github.com/sanjaykavatakoppa/invoice_gst)
-
----
 
 ### 🌱 Life Focus
 
