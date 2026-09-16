@@ -303,7 +303,7 @@ I actively work on both personal and collaborative software projects.
 
 ### 2026 Highlights
 
-* 🔥 **158+ GitHub contributions**
+* 🔥 **240+ GitHub contributions**
 * 🔀 Multiple pull requests
 * ✅ Multiple merged contributions
 * 🤖 AI-focused projects
